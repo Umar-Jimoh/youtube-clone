@@ -1,8 +1,9 @@
+const Videos = (videos) => {
+  console.log(videos)
 
-const Videos = () => {
   return (
-    <div>Video</div>
-  )
+      <div>Videos</div>
+  ) 
 }
 
-export default Videos 
+export default Videos
